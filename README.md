@@ -9,9 +9,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Kotlin , Jetpack Compose**
+- 🌱 I’m currently learning **Android App Development**
 
-- 💬 Ask me about **Android App Development**
+- 💬 Ask me about **kotlin,Jetpack Compose,MVVM Architecture,ML kit,FireBase,Retrofit,Room Database**
 
 - 📫 How to reach me **yashhero428@gmail.com**
 
