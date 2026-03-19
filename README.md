@@ -1,61 +1,72 @@
 <p align="center">
-  <img src="data.jpg" width="100%" />
+  <img src="data.jpg" width="100%" style="max-height:300px; object-fit:cover; border-radius:10px;" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Yash Talreja</h1>
 <h3 align="center">📊 Data Analyst | 📈 Power BI Developer | 📱 Android Developer</h3>
 
-<img align="right" alt="Coding" width="400" src="https://raj-rathod.github.io/rajesh-rathore/assets/images/developer.gif">
-
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=500&lines=Turning+Data+into+Insights+📊;Power+BI+Dashboard+Expert;Android+Developer+💻;Always+Learning+New+Things+🚀">
+<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=500&lines=Turning+Data+into+Insights+📊;Power+BI+Dashboard+Expert;Android+Developer+💻;Always+Learning+🚀">
 </p>
+
+<img align="right" alt="Coding" width="350" src="https://raj-rathod.github.io/rajesh-rathore/assets/images/developer.gif">
 
 ---
 
 ### 🌟 About Me
 ✨ Passionate about **Data Analytics & Visualization**  
-📊 Love building **interactive dashboards & insights**  
-📱 Experienced in **Android Development**  
-🧠 Currently exploring **Advanced Analytics & BI Tools**  
-⚡ *"Transforming raw data into meaningful stories"*
+📊 Crafting **interactive dashboards & business insights**  
+📱 Background in **Android Development**  
+🧠 Exploring **Advanced Analytics & BI Tools**  
+⚡ *Turning data into powerful decisions*
 
 ---
 
-### 🧠 Skills & Expertise
+### 🧠 Tech Stack
+
+<h3 align="center">📊 Data Analytics</h3>
 
 <p align="center">
+<img src="https://img.icons8.com/color/48/power-bi.png" title="Power BI"/>
+<img src="https://img.icons8.com/color/48/microsoft-excel-2019.png" title="Excel"/>
+<img src="https://img.icons8.com/color/48/sql.png" title="SQL"/>
+<img src="https://img.icons8.com/color/48/combo-chart--v1.png" title="Data Visualization"/>
+<img src="https://img.icons8.com/color/48/analytics.png" title="Analytics"/>
+</p>
 
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=black"/>
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Data%20Visualization-ff6f61?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Data%20Analysis-4CAF50?style=for-the-badge"/>
+---
 
-<br/>
+<h3 align="center">📱 Android Development</h3>
 
-<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-<img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-<img src="https://img.shields.io/badge/Retrofit-009688?style=for-the-badge"/>
+<p align="center">
+<img src="https://img.icons8.com/color/48/kotlin.png" title="Kotlin"/>
+<img src="https://img.icons8.com/color/48/java-coffee-cup-logo.png" title="Java"/>
+<img src="https://img.icons8.com/color/48/android-os.png" title="Android"/>
+<img src="https://img.icons8.com/color/48/firebase.png" title="Firebase"/>
+<img src="https://img.icons8.com/color/48/api-settings.png" title="REST API / Retrofit"/>
+</p>
 
-<br/>
+---
 
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white"/>
+<h3 align="center">🛠 Tools & Technologies</h3>
 
+<p align="center">
+<img src="https://img.icons8.com/color/48/git.png" title="Git"/>
+<img src="https://img.icons8.com/color/48/mysql-logo.png" title="MySQL"/>
+<img src="https://img.icons8.com/color/48/github.png" title="GitHub"/>
+<img src="https://img.icons8.com/color/48/visual-studio-code-2019.png" title="VS Code"/>
 </p>
 
 ---
 
 ### 🌐 Connect With Me
+
 <p align="center">
-<a href="https://www.linkedin.com/in/yash-talreja-4b08a824a/" target="blank">
-<img src="https://img.shields.io/badge/LinkedIn-Yash%20Talreja-blue?style=for-the-badge&logo=linkedin"/>
+<a href="https://www.linkedin.com/in/yash-talreja-4b08a824a/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-Yash%20Talreja-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
 <a href="mailto:yashhero428@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail"/>
+<img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail"/>
 </a>
 </p>
 
@@ -64,18 +75,18 @@
 ### 📊 GitHub Analytics
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=yash-talreja&show_icons=true&theme=tokyonight"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yash-talreja&theme=tokyonight"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=yash-talreja&show_icons=true&theme=tokyonight"/>
+<img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=yash-talreja&theme=tokyonight"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=yash-talreja&show_icons=true&locale=en&layout=compact&theme=tokyonight"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs?username=yash-talreja&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
 
 ### 👀 Profile Views
-<p align="center"> 
-<img src="https://komarev.com/ghpvc/?username=yash-talreja&label=Profile%20Views&color=brightgreen&style=for-the-badge" /> 
-</p>
 
+<p align="center"> 
+<img src="https://komarev.com/ghpvc/?username=yash-talreja&label=Profile%20Views&color=0e75b6&style=for-the-badge" /> 
+</p>
