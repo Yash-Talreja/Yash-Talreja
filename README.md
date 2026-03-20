@@ -1,3 +1,9 @@
+<h1 align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" />
+  &nbsp; Welcome Back &nbsp;
+  <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" />
+</h1>
+
 <p align="center">
   <img src="data.jpg" width="100%" style="max-height:300px; object-fit:cover; border-radius:10px;" />
 </p>
@@ -6,7 +12,7 @@
 <h3 align="center">📊 Data Analyst | 📈 Power BI Developer | 📱 Android Developer</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=500&lines=Turning+Data+into+Insights+📊;Power+BI+Dashboard+Expert;Android+Developer+💻;Always+Learning+🚀">
+<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=500&lines=Turning+Data+into+Insights+📊;Power+BI+Dashboard+Expert;Android+Developer+💻;Always+Learning+new+things+🚀">
 </p>
 
 <img align="right" alt="Coding" width="350" src="https://raj-rathod.github.io/rajesh-rathore/assets/images/developer.gif">
