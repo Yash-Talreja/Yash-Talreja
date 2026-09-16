@@ -35,25 +35,20 @@
 
 <h2>🚀 About Me</h2>
 
-<p>
-I'm a <b>B.Tech Computer Science graduate</b> passionate about transforming raw data
-into meaningful insights, building analytical solutions, and developing technology
-that solves real-world problems.
-</p>
+<!-- ===================== ANIMATED DEVELOPER ===================== -->
 
-<p>
-My technical journey combines <b>Data Analytics, Data Science, SQL Development,
-and Android Development</b>, giving me experience across both data and software
-development.
-</p>
+<img align="right" alt="Coding Animation" width="350"
+src="https://raj-rathod.github.io/rajesh-rathore/assets/images/developer.gif">
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Data%20Analytics-📊-00C7B7?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Data%20Science-🤖-8A2BE2?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/SQL%20Development-🗄️-00758F?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Android%20Development-📱-3DDC84?style=for-the-badge"/>
-</p>
+✨ Passionate about **Data Analytics & Visualization**  
+📊 Crafting **interactive dashboards & business insights**  
+🤖 Exploring **Data Science, Machine Learning & AI**  
+🗄️ Building analytical solutions using **SQL & MySQL**  
+📱 Background in **Android Development**  
+🧠 Always learning and building new things  
+⚡ *Turning data into powerful insights and solutions*
 
+<br clear="right"/>
 
 <!-- ===================== WHAT I DO ===================== -->
 
@@ -134,14 +129,48 @@ development.
 
 <br>
 
+<!-- ===================== DATA SCIENCE ===================== -->
+
 <h3 align="center">🤖 Data Science & Python</h3>
 
 <p align="center">
-  <img src="https://img.icons8.com/color/70/python.png" title="Python"/>
-  <img src="https://img.icons8.com/color/70/numpy.png" title="NumPy"/>
-  <img src="https://img.icons8.com/color/70/pandas.png" title="Pandas"/>
-  <img src="https://matplotlib.org/_static/images/logo2.svg" height="60" title="Matplotlib"/>
-  <img src="https://img.icons8.com/color/70/jupyter.png" title="Jupyter"/>
+
+<span style="display:inline-block; margin:10px;">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
+     width="70" height="70"
+     title="Python" alt="Python"/>
+</span>
+
+<span style="display:inline-block; margin:10px;">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg"
+     width="70" height="70"
+     title="NumPy" alt="NumPy"/>
+</span>
+
+<span style="display:inline-block; margin:10px;">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg"
+     width="70" height="70"
+     title="Pandas" alt="Pandas"/>
+</span>
+
+<span style="display:inline-block; margin:10px;">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg"
+     width="70" height="70"
+     title="Matplotlib" alt="Matplotlib"/>
+</span>
+
+<span style="display:inline-block; margin:10px;">
+<img src="https://seaborn.pydata.org/_images/logo-tall-lightbg.svg"
+     width="70" height="70"
+     title="Seaborn" alt="Seaborn"/>
+</span>
+
+<span style="display:inline-block; margin:10px;">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg"
+     width="70" height="70"
+     title="Jupyter" alt="Jupyter"/>
+</span>
+
 </p>
 
 <br>
