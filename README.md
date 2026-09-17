@@ -289,51 +289,90 @@ Kotlin • Firebase
 
 <!-- ===================== FEATURED PROJECTS ===================== -->
 
-<h2>📂 Featured Projects</h2>
+<h2 align="center">🚀 Featured Projects</h2>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=900&color=70A5FD&center=true&vCenter=true&width=650&lines=Turning+Data+into+Insights+%F0%9F%93%8A;SQL+%7C+Power+BI+%7C+Excel+%7C+Data+Analytics+%F0%9F%9A%80" />
+</p>
+
+<br>
 
 <table align="center">
 
 <tr>
 
+<!-- ===================== FEATURED PROJECTS ===================== -->
+
+<h2 align="center">🚀 Featured Projects</h2>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=70A5FD&center=true&vCenter=true&width=650&lines=Turning+Raw+Data+into+Meaningful+Insights+%F0%9F%93%8A;Building+Analytics+Projects+with+SQL+%26+Power+BI+%F0%9F%9A%80" />
+</p>
+
+<br>
+
+<table align="center">
+
+<tr>
+
+<!-- ===================== PHONEPE ===================== -->
+
 <td width="50%" valign="top">
 
-<h3>📱 PhonePe Pulse SQL Analytics</h3>
+<h3 align="center">📱 PhonePe Pulse Data Analytics</h3>
 
-<b>MySQL • SQL • Data Analytics</b>
+<p align="center">
+  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/SQL-Data%20Analytics-4479A1?style=for-the-badge">
+</p>
 
-<br><br>
+<p align="center">
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif"
+       width="220"
+       alt="MySQL Data Analytics Animation">
+</p>
 
-Analyzing PhonePe Pulse historical data from 2018–2022 to uncover transaction,
-user, geographic and app-engagement patterns.
+Analyzing **PhonePe Pulse data from 2018–2022** to uncover
+transaction, user, geographic and app-engagement patterns
+across India.
 
-<br><br>
+<br>
 
-🔹 SQL Data Analysis  
-🔹 Aggregations  
-🔹 Joins  
-🔹 Subqueries  
-🔹 Business Insights  
+🔹 Data Cleaning & Analysis
+🔹 SQL Queries
+🔹 Aggregations & Grouping
+🔹 Joins & Subqueries
+🔹 Business Insights
 
 </td>
 
+<!-- ===================== OLA ===================== -->
+
 <td width="50%" valign="top">
 
-<h3>📊 Business Intelligence Projects</h3>
+<h3 align="center">🚕 Ola Ride Analysis</h3>
 
-<b>Power BI • Excel • Data Visualization</b>
+<p align="center">
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white">
+</p>
 
-<br><br>
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3N0cWZ6cG5nOGV4Y3R6cG9hZ3E3eGJ3Z3VxY3Z6c2NqZ3BqNCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3oKIPEqDGUULpEU0aQ/giphy.gif"
+       width="180">
+</p>
 
-Creating interactive dashboards that transform raw datasets into meaningful
-business insights and decision-support reports.
+Analyzing **Ola ride-booking data** to understand booking trends,
+ride performance, cancellations, revenue and customer behavior
+using an interactive Power BI dashboard.
 
-<br><br>
+<br>
 
-🔹 Data Cleaning  
-🔹 PivotTables  
-🔹 KPIs  
-🔹 Charts  
-🔹 Interactive Dashboards  
+🔹 Data Cleaning
+🔹 KPI Analysis
+🔹 Ride & Revenue Trends
+🔹 Cancellation Analysis
+🔹 Interactive Power BI Dashboard
 
 </td>
 
@@ -341,22 +380,10 @@ business insights and decision-support reports.
 
 </table>
 
-
-<!-- ===================== ANALYTICS ===================== -->
-
-<h2 align="center">📊 GitHub Analytics</h2>
+<br>
 
 <p align="center">
-  <img height="170em"
-       src="https://github-readme-stats.vercel.app/api?username=yash-talreja&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-  
-  <img height="170em"
-       src="https://github-readme-streak-stats.herokuapp.com/?user=yash-talreja&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img height="170em"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=yash-talreja&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=header" width="90%">
 </p>
 
 
