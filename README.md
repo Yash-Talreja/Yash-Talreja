@@ -287,19 +287,6 @@ Kotlin • Firebase
 </table>
 
 
-<!-- ===================== FEATURED PROJECTS ===================== -->
-
-<h2 align="center">🚀 Featured Projects</h2>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=900&color=70A5FD&center=true&vCenter=true&width=650&lines=Turning+Data+into+Insights+%F0%9F%93%8A;SQL+%7C+Power+BI+%7C+Excel+%7C+Data+Analytics+%F0%9F%9A%80" />
-</p>
-
-<br>
-
-<table align="center">
-
-<tr>
 
 <!-- ===================== FEATURED PROJECTS ===================== -->
 
